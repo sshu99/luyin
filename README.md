@@ -1,0 +1,6 @@
+![image](https://github.com/sshu99/luyin/assets/170369134/56b49ca3-8007-40ea-9e06-349a7e2367d2)
+image source: Huang, Lingdong. "Wenyan-lang programming window and corresponding JavaScript." Cited in Choi, Charles Q. World's First Classical Chinese Programming Language Programs."<i> IEEE Spectrum.</i> Institute of Electrical and Electronics Engineers, January 31, 2020. https://spectrum.ieee.org/classical-chinese.
+
+# Lu Yin Text Analysis Project
+
+This project explores three stories by early 20th century Chinese author, Lu Yin 廬隱. I use two types of word frequency analysis and Latent Dirichlet Allocation topic modeling to explore these texts and see how these computational methods can help us understand patterns in the text. My exploration found that among simple word frequency analysis modes, character-based analysis was better at capturing the concepts and essence of a text, while word-based analysis produced more specific topics that were less generalizable. Latent Dirichlet Allocation-based topic modeling provided the best model of the text, but even this was limited due to issues with pre-processing and the length of the text. The project was successful in exploring Lu Yin's texts and was a helpful launch pad for learning how to perform Chinese text analysis.
